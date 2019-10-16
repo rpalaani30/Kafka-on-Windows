@@ -1,2 +1,2 @@
-# Kafka For Windows
+# Install kafka
 Installing kafka on windows (single machine)
